@@ -1,10 +1,10 @@
 Group A:Short Question Answer
 
-1.Define the term "protocol" in the context of internet.
+1. Define the term "protocol" in the context of internet.
 ans: A protocol is a set of rules and standard that define how data is formatted,transmitted , recevied and interperted between devices on the internet.
 Example: Http , TCP/IP.
 
-2.what is the primaey difference between a web browser and a search engine?
+2. what is the primaey difference between a web browser and a search engine?
 ans: A web browser is a software application used ti access and display web pages, where as a search engine is a web service used to search and retrieve information from the internet.
 
 3. Define the World Wide Web (WWW).
@@ -17,7 +17,7 @@ ans: The World Wide Web(WWW) is a collection of interlinked web pages and resour
 | No server-side processing  | Uses server-side scripts              |
 | Low maintenance            | Higher maintenance                    |
 
-5.
+5. Explain the client-server architecture of the web with a neat diagram.
 ans:The client server architecture is a model where clients requests services and servers provide those services over a network (usually the internet).
 How it works:
 i. A client is a device/software like a web browser (chrome, firefox).
@@ -29,7 +29,7 @@ Neat Diagram
 Client (Browser)  →  HTTP Request  →  Web Server
 Client (Browser)  ←  HTTP Response ←  Web Server
 
-6.DEscribe the functions of the following internet services: Email , FTP , and VOIP.
+6. DEscribe the functions of the following internet services: Email , FTP , and VOIP.
 a.Email (Electronic Mail)
 Email is used to send and receive message electronically over the internet.
 
@@ -63,7 +63,7 @@ Supports messaging and file sharing.
 
 Example:Skype, whatsapp , Zoom
 
-7."The internet is a network of networks".Elaborate on this statement explaning how packect switching works.
+7. "The internet is a network of networks".Elaborate on this statement explaning how packect switching works.
 The internet is called a network of networks because it connects millions of smaller networks (home networks , school networks , ISP networks ) together worldwide.
 
 Packet Switching
@@ -84,3 +84,6 @@ Sender
 [Packet 2] --> Route B -->|--> Receiver
 [Packet 3] --> Route C -->|
 
+ 8. A startup company wants to host a website that displays the same information to all
+visitors and requires very low maintenance costs. However, they are being advised to use
+a dynamic website. As a consultant, would you agree? Justify your answer.
