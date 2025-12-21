@@ -11,3 +11,10 @@ ans: A web browser is a software application used ti access and display web page
 ans: The World Wide Web(WWW) is a collection of interlinked web pages and resoures that are accessed over the internet using HTTP/HTTPS through web browsers.
 
 4. Distingusih between a static web page and a dymanic web page.
+| Static Web Page            | Dynamic Web Page                      |
+| -------------------------- | ------------------------------------- |
+| Same content for all users | Content changes based on user or data |
+| No server-side processing  | Uses server-side scripts              |
+| Low maintenance            | Higher maintenance                    |
+
+5.
