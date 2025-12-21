@@ -18,3 +18,69 @@ ans: The World Wide Web(WWW) is a collection of interlinked web pages and resour
 | Low maintenance            | Higher maintenance                    |
 
 5.
+ans:The client server architecture is a model where clients requests services and servers provide those services over a network (usually the internet).
+How it works:
+i. A client is a device/software like a web browser (chrome, firefox).
+A server is a prowerful computer that stores webistes , files and databases.
+The client sends a request (HTTP/HTTPS) to the server.
+The server processes the request and sends back a response (web page , images , data).
+
+Neat Diagram 
+Client (Browser)  →  HTTP Request  →  Web Server
+Client (Browser)  ←  HTTP Response ←  Web Server
+
+6.DEscribe the functions of the following internet services: Email , FTP , and VOIP.
+a.Email (Electronic Mail)
+Email is used to send and receive message electronically over the internet.
+
+Functions:
+i. Sending and receving text messages.
+ii. Attaching files (documents , images , videos).
+iii. Fast and low-cost communication.
+iv. Supports CC , BCC and mailing lists.
+
+EXample: Gmail , outlook , yahoo mail.
+
+b.FTP(file Transfer Protocol)
+FTP is used to transfer files between coputers over the internet.
+
+Functions:
+i. Uploading files to a server.
+Downloading files form the server.
+Managing files on remote servers.
+Commonly used in website hosting.
+
+Example:FileZilla, WinSCP
+
+c.VoIP(Voice over Internet protocol)
+Voip allows voice communication over the internet instead of traditional phone lines.
+
+Functions:
+Voice calls over the internet.
+video calls and conferencing.
+lower cost than traditional calls.
+Supports messaging and file sharing.
+
+Example:Skype, whatsapp , Zoom
+
+7."The internet is a network of networks".Elaborate on this statement explaning how packect switching works.
+The internet is called a network of networks because it connects millions of smaller networks (home networks , school networks , ISP networks ) together worldwide.
+
+Packet Switching
+Packet Switching is a ethid where data is broken into small packets before being sent.
+
+How packet Switching works:
+Data is divided into small packets.
+Each packet contains:
+Source address.
+Destination address.
+Packet number.
+At the destination, packets are reassembled in correct order.
+
+Diagram:
+Sender
+  |
+[Packet 1] --> Route A -->|
+[Packet 2] --> Route B -->|--> Receiver
+[Packet 3] --> Route C -->|
+
