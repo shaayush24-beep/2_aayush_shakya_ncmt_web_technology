@@ -1,14 +1,14 @@
 Group A:Short Question Answer
 
 1. Define the term "protocol" in the context of internet.
-ans: A protocol is a set of rules and standard that define how data is formatted,transmitted , recevied and interperted between devices on the internet.
-Example: Http , TCP/IP.
+ans: A protocol is a standardized set of rules and formats that define how data is formatted,transmitted , recevied and interperted between devices on the internet acting as a common language for the computers to communicate.
+Example: Http , TCP/IP , FTP .
 
 2. what is the primaey difference between a web browser and a search engine?
-ans: A web browser is a software application used ti access and display web pages, where as a search engine is a web service used to search and retrieve information from the internet.
+ans: A web browser(chrome , firefox) is a software application used to access and display web pages, whereas a search engine(google , bing) is a web service within the browser that is used to search and retrieve specfic information from the internet.
 
 3. Define the World Wide Web (WWW).
-ans: The World Wide Web(WWW) is a collection of interlinked web pages and resoures that are accessed over the internet using HTTP/HTTPS through web browsers.
+ans: The World Wide Web(WWW) is a vast collection of interlinked web pages and resoures that are accessed via the internet using HTTP/HTTPS through web browsers allowing users ti navigate text , videos and more to finf=d and share data globally.
 
 4. Distingusih between a static web page and a dymanic web page.
 | Static Web Page            | Dynamic Web Page                      |
@@ -18,12 +18,12 @@ ans: The World Wide Web(WWW) is a collection of interlinked web pages and resour
 | Low maintenance            | Higher maintenance                    |
 
 5. Explain the client-server architecture of the web with a neat diagram.
-ans:The client server architecture is a model where clients requests services and servers provide those services over a network (usually the internet).
+ans:The client server architecture is a model where clients requests information or services to the central servers and servers provide those services over a network (usually the internet).
 How it works:
-i. A client is a device/software like a web browser (chrome, firefox).
-A server is a prowerful computer that stores webistes , files and databases.
-The client sends a request (HTTP/HTTPS) to the server.
-The server processes the request and sends back a response (web page , images , data).
+i.  A client is a device/software like a web browser (chrome, firefox).
+ii. A server is a prowerful computer that stores webistes , files and databases.
+iii. The client sends a request (HTTP/HTTPS) to the server.
+iv. The server processes the request and sends back a response (web page , images , data).
 
 Neat Diagram 
 Client (Browser)  →  HTTP Request  →  Web Server
@@ -87,3 +87,17 @@ Sender
  8. A startup company wants to host a website that displays the same information to all
 visitors and requires very low maintenance costs. However, they are being advised to use
 a dynamic website. As a consultant, would you agree? Justify your answer.
+Scenario: The startup wants a website that displays the same information to all visitors and requires very low maintenance. They are being advised to use a dynamic website.
+
+Answer: No, a dynamic website is not necessary in this scenario because of the following reasons:
+A static website is sufficient because the content is same for all visitors and does not require frequent updates or user interaction.
+
+Static websites are faster to load, more secure, and cheaper to host because they consist of simple HTML, CSS, and possibly JavaScript files.
+
+Dynamic websites are useful when you need features like user login, content management systems, interactive forms, or personalized content. Implementing these would increase complexity and maintenance costs unnecessarily for this startup.
+
+9. A user types www.google.com into their browser, but the browser displays a ”Server Not
+Found” error, even though the internet connection is active. However, accessing the site
+via 142.250.190.46 works. Diagnose the problem and explain the underlying technology
+that failed.
+ 
