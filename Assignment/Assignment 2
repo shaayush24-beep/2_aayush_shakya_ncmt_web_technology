@@ -1,3 +1,7 @@
+CHAPTER 2: WEBSITE DEVELOPMENT PROCESS
+
+
+Group A:Short Questions
 1. Define the term "sitemap " in the planning phase.
 ans:In the planning phase , a site map is a crucial blueprint or diagram showing a website's structure, content hierarchy,and how pages connects that helps designers , develpoers and stakeholders to visiual the development .
 
@@ -6,7 +10,7 @@ ans:The launch phase involves making the website live on the internet after test
 
 3. Why is ”Documentation” important in the development lifecycle?
 
-ans:Documentation provides a detailed record of the website design , code , features and functionality . it is important for maintance , trouble shooting , updates and help other developers that may work in the project .
+ans:Documentation provides a detailed record of the website design , code , features and functionality . it is important for maintance , trouble  shooting , updates and help other developers that may work in the project .
 
 4. Differentiate between Front-end and Back-end development.
 ans:the difference between Front end and Back end are:
@@ -17,6 +21,8 @@ Back-end development:Server, database, and application logic.
 ii.purpose
  Front-end development:Handles what users can see and interacts with
  Back end development:Handles data processing , storage and server tasks.
+
+ Group B: Long Questions
 
  5. ”Planning is the most critical phase of web development.” Discuss this statement by listing the key activities performed during the planning phase.
  ans:planning is considered as the most critical phase in the web development because it lays project's foundation , define goals etc. A well planned website reduces errors , saves time and ensure that the funal product meets the client's requirements.
@@ -32,7 +38,19 @@ ii.purpose
  v.Timeline and milestones:
  setting deadlines for different stages of development to tarck progress.
 
- 6. Explain the iterative nature of the Maintenance phase. Why is a website never truly
-”finished”?
+ 6. Explain the iterative nature of the Maintenance phase. Why is a website never truly ”finished”?
 ans:The maintenance phase is called iterative which means it involves repeated updates and improvements rather than one time task. Websites are never truly "finished" because of the user needs , new technology and markets trends constantly change . During maintenance develpors fix bugs , update contents , add features , improve security and optimize performance . regular monitoring and iteration helps to ensure that the website will remain functional , relevant and user friendly over time.
 
+7.Describe the process of ”Information Gathering.” Why is understanding the target audience crucial during this step?
+ans:Information gathering is the systematic process of collecting necessary details about the website's purpose , content , functionality and objectives before development begins. This also includes analyzing competitors , researching industry standards , and identifying required resources. understandin gthe traget audience is the crucial because it helps tailor the website's design , content  and functiona;ity to meet the users needs and expectations and also the current industry standards. A website that is designed without considering the audience of the website ,ay fail to engage the users or achieve its goals.
+
+Group C: Scenario Based Questions 
+
+8. You are the project manager for a new e-commerce site. The client wants to skip the”Testing” phase to save money and launch early. Write a persuasive argument explaining the potential risks (security, functionality, compatibility) of skipping this phase.
+ans:If i was the projext manager for a new e-commerce site , i will not let my client skip the "testing" phase as it is the most crucial phase . skipping the website may have serious risks that can outweigh the cost savings . without proper testing the website may have security vulnerablilties  , such as weak login systems , data leaks or payment system issues which can expose sensitive customer information or make the user experience bad.functionality problems may also arise that includes broken links , shopping cart error or incrroct checkput processes that can lead to poor user experience and loss of customers. issues like site not working on different browsers , devices or screen sizes can also occur . lauching a website without testing for issues can damage the site's reputation , reduce customer and potentially cost more to fix the issues later than the savings from skippign the testing phase.
+
+9. A developer begins coding a website immediately after meeting the client, without creating a design prototype or sitemap. Midway through, the client rejects the layout. Analyze what went wrong in the process and how it should have been handled.
+ans:As the developer skipped the planning and design phase this problem has occurred .planning and design phase that includes creating a site map and prototype  allows the client to visualize the website structure , navigation , and layout before the coding phase begins. without the use of this tools , the developer has to assume the design preferences and invested time in coding something that the client didnot appprove for . this leads to wasted effort , increased cost and delays . The correct approach would have to be gather requirements , create a sitemap and woreframe and get the client's approval before statng the coding phase. This ensures algnment with the clients expectations and reduce this risk of reowrk and saves time .
+
+10. A university website was launched successfully, but after six months, students stopped visiting it because the exam schedules were outdated. Which phase of the development lifecycle was neglected? Explain the activities involved in this phase.
+ans:In this scenario , the maintenace phase was neglected that lead to the website having outdated information. maintenace phase involves regularly updating and monitoring the website to ensure the content are accurate , features are working correctly and that the site remains secure and user friendly . Thre key activited includes updating information , fixinf bugs , optimizing perfirmance , adding new features and ensuring compatiblity with new devices or browsers. Neglecting the maintenance phase can make a website outdated , reduce user engagement and hrm the website credibility as seen in this example.
