@@ -1,5 +1,6 @@
-Group A:Short Question Answer
+CHAPTER 1: AN OVERVIEW OF THE INTERNET AND THE WEB
 
+Group A:Short Question Answer
 1. Define the term "protocol" in the context of internet.
 ans: A protocol is a standardized set of rules and formats that define how data is formatted,transmitted , recevied and interperted between devices on the internet acting as a common language for the computers to communicate.
 Example: Http , TCP/IP , FTP .
@@ -16,6 +17,8 @@ ans: The World Wide Web(WWW) is a vast collection of interlinked web pages and r
 | Same content for all users | Content changes based on user or data |
 | No server-side processing  | Uses server-side scripts              |
 | Low maintenance            | Higher maintenance                    |
+
+Group B: Long Questions 
 
 5. Explain the client-server architecture of the web with a neat diagram.
 ans:The client server architecture is a model where clients requests information or services to the central servers and servers provide those services over a network (usually the internet).
@@ -46,9 +49,9 @@ FTP is used to transfer files between coputers over the internet.
 
 Functions:
 i. Uploading files to a server.
-Downloading files form the server.
-Managing files on remote servers.
-Commonly used in website hosting.
+ii.Downloading files form the server.
+iii.Managing files on remote servers.
+iv.Commonly used in website hosting.
 
 Example:FileZilla, WinSCP
 
@@ -56,10 +59,10 @@ c.VoIP(Voice over Internet protocol)
 Voip allows voice communication over the internet instead of traditional phone lines.
 
 Functions:
-Voice calls over the internet.
-video calls and conferencing.
-lower cost than traditional calls.
-Supports messaging and file sharing.
+i.Voice calls over the internet.
+ii.video calls and conferencing.
+iii.lower cost than traditional calls.
+iv.Supports messaging and file sharing.
 
 Example:Skype, whatsapp , Zoom
 
@@ -72,10 +75,10 @@ Packet Switching is a ethid where data is broken into small packets before being
 How packet Switching works:
 Data is divided into small packets.
 Each packet contains:
-Source address.
-Destination address.
-Packet number.
-At the destination, packets are reassembled in correct order.
+i.Source address.
+Dii.estination address.
+iii.Packet number.
+iv.At the destination, packets are reassembled in correct order.
 
 Diagram:
 Sender
@@ -84,9 +87,12 @@ Sender
 [Packet 2] --> Route B -->|--> Receiver
 [Packet 3] --> Route C -->|
 
+Group C: Scenario-Based Questions 
+
  8. A startup company wants to host a website that displays the same information to all
 visitors and requires very low maintenance costs. However, they are being advised to use
 a dynamic website. As a consultant, would you agree? Justify your answer.
+ans:
 Scenario: The startup wants a website that displays the same information to all visitors and requires very low maintenance. They are being advised to use a dynamic website.
 
 Answer: No, a dynamic website is not necessary in this scenario because of the following reasons:
@@ -96,8 +102,8 @@ Static websites are faster to load, more secure, and cheaper to host because the
 
 Dynamic websites are useful when you need features like user login, content management systems, interactive forms, or personalized content. Implementing these would increase complexity and maintenance costs unnecessarily for this startup.
 
-9. A user types www.google.com into their browser, but the browser displays a ”Server Not
-Found” error, even though the internet connection is active. However, accessing the site
-via 142.250.190.46 works. Diagnose the problem and explain the underlying technology
-that failed.
- 
+9. A user types www.google.com into their browser, but the browser displays a ”Server Not Found” error, even though the internet connection is active. However, accessing the site via 142.250.190.46 works. Diagnose the problem and explain the underlying technology that failed.
+ ans:The problem that the user is facing lies in DNS(Domain Name System) resolution . when the user type www.google.com , the browser asks a DNS server to convert this into a human readable domain into an ip address . The error indicates that the DNS lookup failed , even though the internet connection is active . By using ip address the website can be accessed as it bypasses DNS . DNS is the underlying technology that has failed in this situation , either due to misconfigured DNS settings , a down DNS server or network issues affecting domain name resolution.
+
+ 10. A multinational corporation wants to share sensitive inventory data with specific suppliers but does not want this information available to the general public. Explain which network type (Intranet, Extranet, or Internet) they should implement and why.
+ ans:By the given situation , the corpoartion should implement an extranet . An extranet is a private netowrk that allows controlled access  to authorized external users such as suppliers or partners while keeping the information secure for the general public . Unlike an intranet which is limited employees an extranet extends certain resources securely to the outsiders. Using an extranet ensures that sensitive inventory data is shared only wiht intended suppliers , maintaining confidentiality and security while facilitating collaboration. Extranet extends the Intranet security by allowing trusted partners to access information thorogh a secure network.
