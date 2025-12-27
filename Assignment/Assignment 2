@@ -1,1 +1,38 @@
+1. Define the term "sitemap " in the planning phase.
+ans:In the planning phase , a site map is a crucial blueprint or diagram showing a website's structure, content hierarchy,and how pages connects that helps designers , develpoers and stakeholders to visiual the development .
+
+2. What is the purpose of the ”Launch” phase in web development?
+ans:The launch phase involves making the website live on the internet after testing and final adjustents. its purpose is to deploy the website so that users can access it and ensures everything functions correctly in the live environment.
+
+3. Why is ”Documentation” important in the development lifecycle?
+
+ans:Documentation provides a detailed record of the website design , code , features and functionality . it is important for maintance , trouble shooting , updates and help other developers that may work in the project .
+
+4. Differentiate between Front-end and Back-end development.
+ans:the difference between Front end and Back end are:
+i.Focus
+Front end development:User interface and experience (ui/ux).
+Back-end development:Server, database, and application logic.
+
+ii.purpose
+ Front-end development:Handles what users can see and interacts with
+ Back end development:Handles data processing , storage and server tasks.
+
+ 5. ”Planning is the most critical phase of web development.” Discuss this statement by listing the key activities performed during the planning phase.
+ ans:planning is considered as the most critical phase in the web development because it lays project's foundation , define goals etc. A well planned website reduces errors , saves time and ensure that the funal product meets the client's requirements.
+ Key activities during the planning phase includes:
+ i.Define goals and objectives:
+ understanding the goals , objectives and features that the website should have.
+ ii. Site map creation:
+ Organizing the structure of the website and mapping how the pagges will connect.
+ iii.Technology selection:
+ deciding on which programming language , frameworks , databases and hosting options to choose.
+ iv.Resource planning :
+ Allocating team members ,tools, and buget for efficient.
+ v.Timeline and milestones:
+ setting deadlines for different stages of development to tarck progress.
+
+ 6. Explain the iterative nature of the Maintenance phase. Why is a website never truly
+”finished”?
+ans:The maintenance phase is called iterative which means it involves repeated updates and improvements rather than one time task. Websites are never truly "finished" because of the user needs , new technology and markets trends constantly change . During maintenance develpors fix bugs , update contents , add features , improve security and optimize performance . regular monitoring and iteration helps to ensure that the website will remain functional , relevant and user friendly over time.
 
