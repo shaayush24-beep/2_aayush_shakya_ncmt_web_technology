@@ -1,1 +1,66 @@
+Group A Short Questions
 
+1. Define Information Architecture.
+ans: Information Architecture is the process of organizing , structuring and labeling information in a clear and logical way so that the users can easily find , understand and use the information within a website , application or information system.
+
+2.  What is a ”Wireframe”?
+ans: A wireframe is a basic visual representation or a blueprint of a webpage that shows the placement of elements like menus , buttons , and content without design details such as colors and images . 
+
+3. Explain the concept of ”Cognitive Friction” in web design.
+ans: cognitive Friction refers to the mental effort that the users experience when a website os confusing , unckear or difficult to navigate making tasks harder top complete . 
+
+4. Why should URL slugs use hyphens instead of underscores?
+ans: URL slugs should use hyphens(-) instead of underscores(_) because hypens improve readability and SEO because search engines treat hyphens as word separators whereas underscores are treated as join words together.
+
+Group B: Long Questions 
+
+5. Compare and contrast Hierarchical (Tree) structure and Linear (Sequential) structure. Give an example of when to use each.
+ans: A hierarchical (tree) structure organizes website content in a parent-child relationship , where main pages branch into sub pages. it allows users to navigate through categories and subcategories . 
+
+A linear(Sequential) structure organizes contents in a fixed , step by step order where users move form one page to the next . it is simple and easy to follow but limited in navigation options.
+
+Comparison:
+i. Hierarchical structure offers flexible navigation , while linear structure follows fixed path.
+ii. Hierarchical structure is suitable for large websites , while linear structure is ideal for small or guided processes .
+iii. Hierarchical structure is complex in design, while linear structure is easy to understand.
+iv. In Hierarchical structure users can quickly locate specific contents , wjile in linear structure users can only follow fixed path.
+
+Examples:
+Hierarchical structure: University website(Admissions→ Programs→Departmets).
+Linear structure: online tutorial or checkout process.
+
+6. Explain the ”Three-Click Rule” and its significance in User Experience (UX) design.
+ans: The "Three-Click Rule" states that users chould be able to find any information on a website within three clicks. if the users takes more than three clicks, they may become frustrated and leave the site.
+
+Significance in UX Design:
+i.Improves Nvigation Efficiency 
+  •Reduces the time and effort users spend searching for specific information.
+ii.Enhances User Satisfaction
+  •Users feel the website is easy to use and intuitive. 
+  •Leads to higher trust and positive perception towards the website.
+iii.Reduce Bounce Rate 
+  •If users cannot find what they need quickly, they leave the site.
+  •following the three-click rule helps retain visitors.
+iv.Supports logical information Architecture
+  •Encourages designers to organize content in a clear , hierarchical structure.
+
+  Example:
+  Good UX: Homepage→Serves→Web Design→Portfolio
+  Bad UX: Hoepage→About us→Services→Web Design→Portfolio
+
+  7.“Plan before you do.” Explain how tools like Card Sorting and Flowcharts help in planning a website’s structure.
+  ans: "Plan Before you do" emphasizes the importance of planning a website before development begins. Card Sorting and Fowcharts are effective tools that can be used in the planning stage.
+
+  Card Sorting
+  Definition:Card Sorting involves writing content items on cards and grouping them based on similarity, it helps designers understand how users expect information to be organized and improves navigation structure.
+  Purpose:Helps determine how users expect information to be organized.
+  How it helps:
+  •Revals logical categories for menus and pages.
+  •Ensures the website's structure matches user expectations.
+
+  Flowchart
+  Definition:Flowchart visually represent the structure and navigation paths of a website. they show how pages are connected and how users move form one page to another.
+  Purpose:Helps visualize navigation paths and relationships between pages.
+  How it helps:
+  •Shows how users move form one page to another.
+  •Identifies redundancies , dead-ends or missing links.
