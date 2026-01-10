@@ -64,3 +64,77 @@ iv.Supports logical information Architecture
   How it helps:
   •Shows how users move form one page to another.
   •Identifies redundancies , dead-ends or missing links.
+
+  Group C: Scenario-Based Questions 
+
+8. You are designing a website for a University. It has hundreds of pages (Admissions, Departments, Alumni, News). Which structural model would you choose? Draw a rough diagram and justify your choice.
+ans: For a University website with hundreds of pages , the best choice is a Hiererchical(Tree) Structure model.A university website contains large , diverse and well defined sections such as Admisssions , Departments , Alumni ans News.A Hierarchical structure organzies this information logically form general to specific , making it easy for users to navigate.
+
+Justification:
+1. Scalability
+    New departments, courses or news sections can be added easily without disturbing the whole site.
+2. User Friendly Navigation
+    Users can quickly understand where they are and how to move to related pages.
+3. Logical grouping of contents
+    Similar content is grouped together (all departments under Departments).
+4. Improved Findability 
+    Vistors cna locate information with fewer clicks.
+5. Suitable for large websites
+    Best model for website with hunderds or thousnads of pages like universites.
+
+    Diagram
+
+    Home
+      ↓→Admissions
+      ↓→Departments
+      ↓→Alumni
+      ↓→News
+
+9. A user visits a website but leaves within 10 seconds because they cannot find the navigation menu, which is hidden behind a small icon on a desktop screen. Analyze this design failure using the ”KISS” (Keep It Simple) principle.
+ans: The KISS(keep It Simple) priniciple states that a design should be clearr and easy to understand especially for first time users. in this case, hiding the navigation menu behind a small icon on a desktop screen violates this priniciple.
+
+Things that went wrong:
+1. Overcomplication of Navigation
+ •On desktop screens, users expect visible navigation menu (top or side).
+ •Hiding it behind a small icon (hambuger menu )adds unnecessary complexity.
+2. Poor visibility
+•The navigation icon is small and not easily noticeable.
+•According to KISS , important elements should be immediately visible , not hidden.
+3. Mismatch with user expectations
+•Hamburger menus are common on moblie devces not desktops.
+•This breaks familiarity , incresing user confusion.
+4. Increased Cognitive Load
+•users must first figure out where the menu is before using the site.
+•KISS emphasizes reducing thinking effort for users.
+
+Solutions:
+1. Display a clear , visible navigation bar on the desktop version.
+2. Use simple labels like Home , About ,Services , Contact.
+3. Reserve hidden for moblie screens only.
+4. Make important actions obvious and accessible at first glance.
+
+Conclusion
+This design fails the KISS principle by hiding a critical feature(navigation) and making the interface unnecessarily complex. A simpler , more visible navigation would help users find inforamtion quickly and improves overall usability.
+
+10. An e-commerce website has a URL structure like www.shop.com/prod?id=55&cat=9. Explain why this is bad for both users and Search Engines (SEO), and propose a better structure using Page Slugs
+ans: The URL(www.shop.com/prod?id=55&cat=9) is a problematic URL.
+Reasons this URL is bad:
+1. For Users
+•Not readable: Users cannot understand what the page is about.
+•Not trustworthy: Random numbers and symbols look suspicious.
+•Hard to remember or share:Users cannot guess or recall what the contents are.
+2. For SEO
+•No keywords:Search engines rely on words in URLS for rankong websites.
+•Dynamic parameters are less SEO friendly.
+•Lower click through rate:Users are less likely to click unclear URLS in search results.
+
+Example of better URL:www.shop.com/electronics/smartphone-samsung-galaxy
+
+Reasons for this URL being better:
+1.Uses page slugs(human readable words).
+2.Cleary shows category and product name.
+3.Contains SEO keywords.
+4.Easy to understand, remember and share.
+
+Conclusion
+The orginal URL strcture is bad because it is user infriendly and SEO unfriendly. Using clean URls with page slugs improve usablity , SEO ranking and click through rates making it ideal for an ecommerce website.
