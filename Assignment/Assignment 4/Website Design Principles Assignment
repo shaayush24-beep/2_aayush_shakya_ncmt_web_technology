@@ -133,3 +133,110 @@ Example of 60-30-10 Rule on a website
 •10% Red : "sign up" button
 
 Group C: Scenario-Based Questions
+8. A website loads very slowly, causing users to abandon it. Upon inspection, you find the developer used high-resolution raw images directly from a camera. Explain the importance of Image Optimization and file formats (JPEG vs PNG) to solve this.
+ans: In this scenario , the developer used high - resolution raw images directly forma camera , which are usually very large in file size (often several MBs per image). This can dramatically slow down page loading.
+
+Optimizing images solves this problem by reduucing file size wothout significantly reducing visual quality.
+Importance of Image Optimization:
+1. Faster loading Speed 
+•Smaller images load faster , improving user experience.
+•Faster pages improves SEO ranking.
+
+2. Better Performance Across Devices
+•optimized images work well on moblie devices with limited bandwodth.
+•Reduces data usage for users.
+
+3. Improved Accessibility
+•Faster loading pages are more acsessible to users with slow internet.
+
+4. Reduced server load
+•Smaller files takes less storage and bandwidth , sacing hosting costs.
+
+Choosing the right file format
+1. JPEG(Joint Photographic Experts Group)
+Best for: Photographs , images with gradients , real life pictures.
+Pros:
+•Compressed(smaller file sizes).
+•Good quality at reasonable compression.
+
+Cons:
+•Uses lossy compression(some wuality is lost).
+•Not ideal for images with sharp edges or text.
+
+Usecase:Product photos, banners, background
+
+2.PNG(Portable Network Graphics)
+Best for:Images with transoarency , icons , logos , diagrams.
+Pros:
+•Losless compression(no quality loss)
+•Supports transparent background
+
+Cons:
+•larger file size than JPEG
+
+Use Case:Logos ,Ui elementd , icons
+
+Conclusion:By resizing images and using JPEg and PNG obly when transparency is needed , the website performance can br greatly improved.
+
+
+9.You are designing a website for a Law Firm. The client wants to use a bright yellow background with Comic Sans font to look ”friendly.” As a web designer, critique this choice based on Color Theory and Typography principles, and suggest a better alternative.
+ans: Client's Choice:
+•Bright yellow backgorund
+•Comic Sans fint
+
+Critique Based on Color Theory:
+Bright yellow:
+•Causes eye strain if overused.
+•creates high visual noise.
+•feels informal and distracting.
+•Not suitable for a professional law frim.
+
+Critique Based on Typography Principles:
+Comic Scans:
+•Informal and playful
+•Poor professional crediblity
+•reduces trust and seriouness
+•Inappropriate for legal services
+
+Best Alternstives:
+Colors:
+•Navy Blue: conveys trust , reliability and professionalism.
+•Dark gray: neutral , elegant and serious.
+•White: clean and readable.
+•Accent Color:gold, dark green or muted burgundy for highlights like buttons or headings.
+
+Fonts:
+1. Serif fonts
+•Conveys professionalism , tradition and authority.
+•Examples: Times New Roman , Georgia , Merriweather.
+
+2. Sans-serif fonts(for modern look):
+•Clean and readable , suitable for web.
+•Examples:Helvetica , Open Sans , Lato.
+
+Conclusion:A law frim websote should communicate trust , professionalism and authority which the proposed alternatives achieve better than bright yellow and comic sans.
+
+
+10. A website looks great on a laptop but is unreadable on a mobile phone because the user has to zoom in and scroll horizontally. Identify the design principle missing here and explain how Media Queries/Fluid Grids could fix it.
+ans: Responsive Web Design is the priniciple that ensures a website adapts to different screen sizes and devices providing a good user expreience on any device.
+
+Problem in this scenario:
+•The website looks fine on a laptop but is unreadable on moblie.
+•Users must zoom in and scroll horizontally , which violates usability principles.
+•The site is not responsive . it was likely designed woth fixed widths, suitABLE only for larger screens.
+
+Media Queries are a CSS feature that allows the designer to apply different styles based on device characteristics most commonly screen width.
+
+How Media Queries Solve this:
+•Automatically resizes elements to fit smaller screens.
+•Changes layout , font sizes or visibility of content.
+•Avoids horizontal scrooling and zooming.
+
+Fluid Grids use relative units(%,em,rem)instead of fixed pixels to define layout dimensions.
+
+How Fluid Grids solve this:
+•Instead of Width; 1200px , you can use width: 80%.
+•Columns and elements adjust automatically based on the screen size.
+Prevents horizontal scrolling.
+
+Conclusion: Using media queries and fluid grinds ensures the website is readable and usable acress all devices.
