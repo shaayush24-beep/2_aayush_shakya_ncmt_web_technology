@@ -1,1 +1,135 @@
+Group A: Short Questions
 
+1. Differentiate between Legibility and Readability.
+ans: Differentiate between Legibility and Readability:
+     •Legibility:Refers to how easily individual characters or letters can be recongnized(font style,size).
+     •Readability:Refers to how easily blockes of text can be read and understood(line length , spacing , layout).
+
+2. What is the ”Rule of Thirds” in layout design?
+ans:The Rule of Thirds divides a page into three equal parts  horizontally and vertically, creating nine sections. Improtant elements are placed along these lines or intersections to create a balanced and visually appealing design.
+
+3. Why should you limit the number of font families used in a website?
+ans: Limiting font families:
+1. Maintains visual consistency.
+2. improves readability.
+3. Reduces visual clutter.
+4. Enhances professional apperance.
+
+4. Define ”Responsive Web Design.”
+ans: Responsive web design is an approach where a website automatically adjusts its layout , images and contents to fit different screen sizes and devices such as mobiles , tablets and desktops.
+
+Group B: Long Questions
+
+5. Explain the ”F-Pattern” of scanning and how it influences the placement of content on a web page.
+ans: F pattern describes how users commonly scan web pages , especially text-heavy pages rather than reading every word. Eye tracking studies(notably by Nielsen Norman Group ) show that users eyes move in a pattern that riughly looks like the letter "F".
+How F-pattern works
+ Users typically scan a page in three main steps:
+1. Top Horizontal Scan
+•Users read across the top part of the page.
+•This is where attention is highest.
+•Example:Page title, main navigation , headline.
+
+2. Second Horizontal Scan
+•Users move down slightly and scan across again.
+•This line is usually shorter the the first.
+•Rxample:Subheading or the first line of the content.
+
+3. Vertical scan(Left side)
+•Users then scan down from the left side of the page.
+•The look for keywords , bullet points or links.
+
+Influnce on Content Placement:
+1. Important information at the Top
+•places headlines , key messages and navigation menus at the top.
+•Users see these first before deciding whether to continue.
+
+2. key Contents on the left 
+•Important links , menus and Keywords should be left aligned.
+•Users spend more time scanning the left side than the right.
+
+3. Less Focus on Right side
+•Contents placed on the far right gets less attention from the user.
+•Avoid placing critical information on the right side.
+
+
+6. Discuss the psychological impact of colors in web design. Give examples of where Blue, Red, and Green should be used.
+ans: colors plays an major psychological role in web design. They influence user emotions , trust , attention and decision making. Choosing the right color helps improve usability , branding and conversions while poor color choices can confuse or repel users.
+Examples:
+1. Blue 
+Psychological impacts:
+•Creates feelings of trust , clamness , reliability and professionalism.
+•Reduces anxiety and promotes a sense of security.
+
+Where Blue should be Used:
+•Banking and financial websites
+•Corporate and professional sites
+•Technology and SaaS platforms
+Example:Facebook, LinkedIn, PayPal.
+
+2. Red
+Psychological Impacts:
+•Revokes energy , exitement , urgency and passion.
+•Can signal dabger or warnings.
+
+Where Red should be used:
+•call-to-Action(CTA)buttons (Buy Now, Subscribe)
+•Error messages and alerts.
+Examples:
+•Ecommerce "Add to cart" buttons.
+•Clearance sales pages.
+
+3. Green
+Psychological impacts:
+•associated with nature , growth , health and balance.
+•Creates a feelinf of relaxation and safety.
+
+Where Green should be used:
+•Health and wellness websites.
+•Environmental or sustaunability sites.
+•Finance apps.
+
+Examples
+•"Payment successful" messages.
+•Eco-friendly brands.
+
+
+7. Explain the ”60-30-10 Rule” regarding color balance on a website.
+ans: The 60-30-10 rule is a simple and effective guidelines used in web and UI design to create a balanced , visually pleasing color scheme. It explaons how to proportionally use colors on a websites so that it looks organixed and easy to understand.
+
+What The 60-30-10 Rule means:
+The rule divides colors into three parts:
+1. 60% - Primary Color:
+•This is the main background color of the website.
+•Sets the overall mood and the theme.
+•Usually a neutral or soft color.
+
+Examples:White Light gray , soft Blue.
+Used for:
+•Page background.
+•Large content areas.
+
+2. 30% - Secondary Color:
+•Supports and contrasts the primary color.
+•Adds visual interest without overwhelming the design.
+Examples:Dark blue , gray , muted green
+
+Used for;
+•Headers
+•navigation bars
+•Sidebars
+
+3.10% - Accent color:
+•A bold , eye catching color.
+•Used sparingly to drae attention to important elements.
+Examples:Red , Orange
+
+Used for:
+•call-to -Action button 
+•Links and icons
+
+Example of 60-30-10 Rule on a website
+•60% White : Background
+•30% Blue : Navigation bar , headings
+•10% Red : "sign up" button
+
+Group C: Scenario-Based Questions
