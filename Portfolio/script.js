@@ -16,3 +16,5 @@ const observer = new IntersectionObserver((entries) => {
 });
 
 observer.observe(homeSection);
+
+document.getElementById("year").textContent = new Date().getFullYear();
